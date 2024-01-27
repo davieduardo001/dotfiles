@@ -20,8 +20,3 @@ bash instalation_script.sh
 * zshell (shell)
     * it'll install [oh-my-zsh](https://ohmyz.sh/) in your machine, then change the theme <3
 
-| testing    | Column2    | Column3    | Column4    |
-|---------------- | --------------- | --------------- | --------------- |
-| Item1.1    | Item2.1    | Item3.1    | Item4.1    |
-| Item1.2    | Item2.2   | Item3.2   | Item4.2   |
-
