@@ -19,4 +19,3 @@ bash instalation_script.sh
     * just the customs files of NvChad config
 * zshell (shell)
     * it'll install [oh-my-zsh](https://ohmyz.sh/) in your machine, then change the theme <3
-
