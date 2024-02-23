@@ -20,5 +20,6 @@
     "terminal.integrated.fontFamily": "JetBrains Mono",
     "terminal.integrated.fontSize": 14,
     "workbench.activityBar.location": "hidden",
-    "workbench.colorTheme": "mono dark"
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "workbench.panel.defaultLocation": "right",
 }
