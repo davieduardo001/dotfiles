@@ -28,6 +28,10 @@ cmd unarchive ${{
   esac
 }}
 
+cmd editor ${{
+  lvim 
+}}
+
 # Bindings
 map d
 map m
@@ -43,6 +47,8 @@ map R reload
 map mf mkfile
 map md mkdir
 map C clear
+map vi lvim
+map e editor
 
 # Movement
 map gD cd ~/Documents
